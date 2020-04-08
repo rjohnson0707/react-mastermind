@@ -1,0 +1,21 @@
+.GamePage-link-margin {
+  margin-bottom: 10px;
+}
+
+.GamePage {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.GameBoard {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.GamePage-controls {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  margin-left: 20px;
+}
